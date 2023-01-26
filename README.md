@@ -13,8 +13,8 @@ datasets:
 #      type: application/rss2+xml
 # edit list below to select taxonomies you'd like to work with
 taxonomies:
-#    - id: itis
-#      name: Integrated Taxonomic Information System
+    - id: itis
+      name: Integrated Taxonomic Information System
 #    - id: ncbi
 #      name: NCBI Taxonomy
 #    - id: discoverlife
