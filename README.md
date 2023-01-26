@@ -13,12 +13,12 @@ datasets:
 #      type: application/rss2+xml
 # edit list below to select taxonomies you'd like to work with
 taxonomies:
-    - id: itis
-      name: Integrated Taxonomic Information System
-    - id: ncbi
-      name: NCBI Taxonomy
-    - id: discoverlife
-      name: Discover Life Taxonomy
+#    - id: itis
+#      name: Integrated Taxonomic Information System
+#    - id: ncbi
+#      name: NCBI Taxonomy
+#    - id: discoverlife
+#      name: Discover Life Taxonomy
 #    - id: batnames
 #      name: Bat Names 
 #    - id: col
@@ -33,8 +33,8 @@ taxonomies:
 #      name: Mammal Diversity Database
 #    - id: ott
 #      name: Open Tree of Life Taxonomy
-#    - id: pbdb
-#      name: Paleobiology Database
+    - id: pbdb
+      name: Paleobiology Database
 #    - id: plazi
 #      name: Plazi Treatments
 #    - id: tpt
