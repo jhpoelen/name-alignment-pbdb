@@ -35,8 +35,8 @@ taxonomies:
 #      name: Open Tree of Life Taxonomy
     - id: pbdb
       name: Paleobiology Database
-#    - id: plazi
-#      name: Plazi Treatments
+    - id: plazi
+      name: Plazi Treatments
 #    - id: tpt
 #      name: Terrestrial Parasite Tracker Taxonomies
 #    - id: wfo
